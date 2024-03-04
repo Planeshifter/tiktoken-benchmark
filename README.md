@@ -1,5 +1,6 @@
 # Benchmark Results
 
+```
 # js-tiktoken
   ---
   iterations: 1000
@@ -48,3 +49,4 @@ ok 6 benchmark finished
 # pass  6
 #
 # ok
+```
